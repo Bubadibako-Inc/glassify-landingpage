@@ -313,17 +313,17 @@
                                 <!-- Member 3 -->
                                 <div class="col-md-3">
                                     <div class="team-member">
-                                        <img src="assets/img/people.png" alt="Fadly" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;">
+                                        <img src="assets/img/fadly.png" alt="Fadly" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;">
                                         <h5 class="mb-2">Fadly Nugraha Jati</h5>
-                                        <p class="text-muted">Marketing Manager</p>
+                                        <p class="text-muted">Flutter Developer</p>
                                     </div>
                                 </div>
                                 <!-- Member 4 -->
                                 <div class="col-md-3">
                                     <div class="team-member">
-                                        <img src="assets/img/people.png" alt="Hilmi" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;">
+                                        <img src="assets/img/hilmi.jpg" alt="Hilmi" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;">
                                         <h5 class="mb-2">Hilmi Irfan Naafi'udin</h5>
-                                        <p class="text-muted">Lead Developer</p>
+                                        <p class="text-muted">Machine Learning</p>
                                     </div>
                                 </div>
                             </div>
