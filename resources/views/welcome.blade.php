@@ -307,7 +307,7 @@
                                     <div class="team-member">
                                         <img src="assets/img/azka.jpg" alt="Azka" class="img-fluid rounded-circle mb-3" style="width: 200px; height: 200px; object-fit: cover;">
                                         <h5 class="mb-2">Azka Anasiyya Haris</h5>
-                                        <p class="text-muted">Project Manager</p>
+                                        <p class="text-muted">ML Engineer</p>
                                     </div>
                                 </div>
                                 <!-- Member 3 -->
