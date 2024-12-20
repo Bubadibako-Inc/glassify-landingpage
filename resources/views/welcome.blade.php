@@ -272,7 +272,7 @@
                             <h3 class="text-primary-gradient fw-medium">Try it Now</h3>
                             <p>Scan the QR code below to try our app directly!</p>
                             <div class="d-flex justify-content-center">
-                                <img src="assets/img/qr-code.png" alt="QR Code" class="img-fluid" style="width: 250px; height: 250px;">
+                                <img src="assets/img/QR.png" alt="QR Code" class="img-fluid" style="width: 250px; height: 250px;">
                             </div>
                         </div>
                     </div>
